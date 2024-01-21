@@ -89,7 +89,7 @@ const Search = () => {
       </form>
 
       <div className="py-4 ">
-        // <Suggestion />
+         {/* <Suggestion /> */}
       </div>
     </div>
   );
